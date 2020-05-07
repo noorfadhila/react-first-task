@@ -1,0 +1,13 @@
+.userOutput{
+    width: 50%;
+    margin: 12px auto;
+    border: solid 1px #eee;
+    padding: 1px;
+    text-align: center;
+    box-shadow: 2px 3px #ccc;
+    color: royalblue;
+}
+
+.userOutput span{
+    color: sandybrown;
+}
